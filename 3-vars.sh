@@ -1,4 +1,4 @@
-#if we name some dat it is called as variable
+#if we name some data it is called as variable
 
 #syntax to delcare variable
 #var_name=data
