@@ -1,10 +1,10 @@
 # Declare a function
 abc() {
   echo -e "\e[32mHello World\e[0m"
-if [ 0.5 -gt 5 ]; then
-   echo -e " 5 "
+if [ 1 -lt 5 ]; then
+   echo -e " 1 "
 else
-    echo -e " 0.5 "
+    echo -e " 5 "
 fi
 }
 #How to access a function
