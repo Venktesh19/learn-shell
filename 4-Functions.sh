@@ -7,11 +7,4 @@ abc() {
 #How to access a function
 abc
 
-Download and install() {
-  echo Download mysql code
-
-
-
-}
-
-Download and install
+echo -e "\e[32mHello Wolrd\e[0m"
