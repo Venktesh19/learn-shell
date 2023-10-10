@@ -1,6 +1,5 @@
 # Declare a function
 abc() {
-  echo -e "\e[32mHello World\e[0m"
 if [ $1 -ge $5 ]; then
    echo -e " \e[32m$1\e[0m"
 else
