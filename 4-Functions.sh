@@ -6,6 +6,5 @@ else
     echo -e " \e[32m$5\e[Om"
 fi
 
-#How to access a function
-abc
+
 
